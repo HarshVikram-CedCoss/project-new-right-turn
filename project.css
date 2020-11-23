@@ -1,0 +1,312 @@
+
+.nav-link{
+  font-size: 20px;
+  color:black!important;
+}
+
+.image1 {
+background-image: url('http://rightturntn.com/wp-content/uploads/2018/01/right-turn-home-banner.jpg') !important;
+height:1000px;
+width:auto;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;  
+}
+
+.centered{
+margin-left: 25% !important;
+margin-right:30% !important;
+padding-top: 80px;
+padding-bottom: 80px;
+opacity: 0.6;
+}
+.card-img-top{
+margin-left: 20%;
+margin-top: 10%;
+height: 50%;
+}
+
+img {
+max-width: 50%;
+
+}
+.cont{
+height:280px;
+background-color:#f6f6f6 !important;
+opacity: 0.5;
+}
+.btm{
+padding-top: 40px;
+text-align: center;
+font-size: 40px;
+color:red !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+}
+.image2{
+background-blend-mode: overlay;
+background-image: url('Wall-Trim-Painting-img.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height:50vh;
+}
+.image3{
+background-blend-mode: overlay;
+background-image: url('color-change-img.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height:50vh;
+}
+.image4{
+background-blend-mode: overlay;
+background-image: url('full-home-painting.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height:50vh;
+}
+
+.image5{
+background-blend-mode: overlay;
+background-image: url('Wall-Prepping-home-img.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height:50vh;
+}
+.container {
+padding-top:40px;
+width: 100%;
+}
+.image6{
+background-blend-mode: overlay;
+background-image: url('drywall-repair.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height:50vh;
+}
+.image7{
+background-blend-mode: overlay;
+background-image: url('Stain-sealant-right-turn-painting.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height:50vh;
+}
+.col-sm-4{
+padding:20px;
+}
+.w1{
+border: 1px solid yellow;
+margin-top: 20%;
+margin-left: 25%;
+}
+.e1{
+font-size: 24px;
+color: #ebb518 !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+margin-left: 20px;
+text-align:center;
+}
+.p1{
+background-image: url('http://rightturntn.com/wp-content/uploads/2018/01/cta-home.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 900px;
+}
+.e11{
+font-size: 40px;
+text-align: center;
+margin-top: 15%;
+margin-left: 3%;
+}
+body, html {
+height: 100%;
+}
+.parallax {
+background-image: url("cta-home.jpg");
+min-height: 500px; 
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.t1{
+text-align: center;
+padding-top: 10%;
+}
+.a1{
+text-align: center;
+padding-top: 10%;
+}
+.u1{
+padding-top:40px;
+}
+.button {
+border-radius: 4px;
+background-color: orange;
+border: 2px solid black;
+color: black;
+text-align: center;
+font-size: 20px;
+padding: 10px;
+width: 180px;
+transition: all 0.5s;
+cursor: pointer;
+}
+.button span {
+cursor: pointer;
+display: inline-block;
+position: relative;
+transition: 0.6s;
+}
+.button span:after {
+content: '\00bb';
+position: absolute;
+opacity: 0;
+top: 0;
+transition: 0.7s;
+}
+.button:hover span {
+padding-right: 20px;
+}
+.button:hover span:after {
+opacity: 0.6;
+right: 0;
+}
+.im1{
+background-image: url('about banner.jpg') !important;
+height:600px;
+width: auto;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+background-color:black;
+}
+.opacity{
+opacity: 0.5;
+background-color:black;
+height: 600px;
+}
+p{
+padding-top:13%;
+text-align: center;
+font-size:40px;
+font-style: bold
+
+color:white;
+}
+.te1{
+color:white;
+border-bottom: 2px solid white;
+line-height: 8;
+}
+.bt{
+color: orange;
+padding-top:3%;
+text-align:center;
+font-size:27px;
+}
+.we1{
+background-color: black;
+height: 100px;
+}
+.le1{
+padding-top: 2%;
+padding-left:10%;
+color: white;
+}
+.o1{
+text-align:center;
+font-size:30px;
+padding-top: 2%;
+}
+.n1{
+text-align: center;
+}
+.bte1{
+text-align: center;
+font-size: 29px;
+background-color:#f6f6f6;
+color: orange;
+padding-top: 3%;
+}
+.slow-transition {
+box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+transition: box-shadow 500ms;
+}
+.slow-transition:hover {
+box-shadow: 0 20px 50px 0 rgba(0, 0, 0, 0.5);
+}
+.rb1{
+text-align: center;
+}
+.e112{
+font-size: 22px;
+background-color: orange !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+border: 1px solid yellow;
+height: 60px;
+text-align:center;
+}
+.a13{
+background-image:url(service-cta-banner.jpg);
+height: 400px;
+width: 500px;
+}
+.z1{
+background-image: url("back.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height:500px;
+width: auto%;
+}
+.z2{
+border: 5px solid orange;
+background-color: gradient;
+height: 300px;
+width: 40%;
+margin-left: 200px;
+}
+.im13{
+background-image: url('request.jpg') !important;
+height:600px;
+width: auto;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+box-sizing: border-box;
+position: relative;
+background-color:black;
+background-position: center;
+}
+.btee1{
+text-align: center;
+padding-top: 5%;
+color: red;
+}
+.im123 {
+background-image: url('http://rightturntn.com/wp-content/uploads/2018/01/right-turn-home-banner.jpg') !important;
+height:900px;
+width:auto;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;  
+}
+.y1{
+font-size: 20px;
+}
+.f{
+  margin-left: 5%;
+  border: 2px solid grey; 
+  width: 200px;
+}
